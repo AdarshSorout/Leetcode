@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0047-permutations-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
