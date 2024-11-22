@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/AdarshSorout/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/AdarshSorout/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
