@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/AdarshSorout/Leetcode/tree/master/0289-game-of-life) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AdarshSorout/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshSorout/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Backtracking
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/AdarshSorout/Leetcode/tree/master/0289-game-of-life) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AdarshSorout/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshSorout/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AdarshSorout/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Math
 |  |
 | ------- |
