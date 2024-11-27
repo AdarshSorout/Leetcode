@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AdarshSorout/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AdarshSorout/Leetcode/tree/master/0290-word-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdarshSorout/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0812-rotate-string](https://github.com/AdarshSorout/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AdarshSorout/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshSorout/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AdarshSorout/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdarshSorout/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AdarshSorout/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
