@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/AdarshSorout/Leetcode/tree/master/0050-powx-n) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdarshSorout/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshSorout/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AdarshSorout/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AdarshSorout/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
