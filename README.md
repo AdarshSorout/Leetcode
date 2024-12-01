@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AdarshSorout/Leetcode/tree/master/0027-remove-element) |
 | [0047-permutations-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AdarshSorout/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdarshSorout/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1972-rotating-the-box](https://github.com/AdarshSorout/Leetcode/tree/master/1972-rotating-the-box) |
