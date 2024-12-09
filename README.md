@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshSorout/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/AdarshSorout/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3427-special-array-ii](https://github.com/AdarshSorout/Leetcode/tree/master/3427-special-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AdarshSorout/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3427-special-array-ii](https://github.com/AdarshSorout/Leetcode/tree/master/3427-special-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AdarshSorout/Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/AdarshSorout/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3427-special-array-ii](https://github.com/AdarshSorout/Leetcode/tree/master/3427-special-array-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
