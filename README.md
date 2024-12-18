@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AdarshSorout/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AdarshSorout/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AdarshSorout/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/AdarshSorout/Leetcode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/AdarshSorout/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AdarshSorout/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AdarshSorout/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AdarshSorout/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AdarshSorout/Leetcode/tree/master/0290-word-pattern) |
