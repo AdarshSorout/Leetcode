@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AdarshSorout/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/AdarshSorout/Leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdarshSorout/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AdarshSorout/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AdarshSorout/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AdarshSorout/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdarshSorout/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdarshSorout/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdarshSorout/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/AdarshSorout/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdarshSorout/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AdarshSorout/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AdarshSorout/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AdarshSorout/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AdarshSorout/Leetcode/tree/master/0035-search-insert-position) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/AdarshSorout/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3427-special-array-ii](https://github.com/AdarshSorout/Leetcode/tree/master/3427-special-array-ii) |
