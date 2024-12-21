@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AdarshSorout/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AdarshSorout/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdarshSorout/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/AdarshSorout/Leetcode/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdarshSorout/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AdarshSorout/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AdarshSorout/Leetcode/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
