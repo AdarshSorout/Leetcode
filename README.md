@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdarshSorout/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/AdarshSorout/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/AdarshSorout/Leetcode/tree/master/1086-divisor-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdarshSorout/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/AdarshSorout/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/AdarshSorout/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/AdarshSorout/Leetcode/tree/master/1086-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -316,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/AdarshSorout/Leetcode/tree/master/0695-max-area-of-island) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/AdarshSorout/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/AdarshSorout/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
