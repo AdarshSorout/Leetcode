@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AdarshSorout/Leetcode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdarshSorout/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AdarshSorout/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AdarshSorout/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/AdarshSorout/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
