@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AdarshSorout/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/AdarshSorout/Leetcode/tree/master/0118-pascals-triangle) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/AdarshSorout/Leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/AdarshSorout/Leetcode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0542-01-matrix) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AdarshSorout/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AdarshSorout/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdarshSorout/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
