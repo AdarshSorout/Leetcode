@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/AdarshSorout/Leetcode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/AdarshSorout/Leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdarshSorout/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0403-frog-jump](https://github.com/AdarshSorout/Leetcode/tree/master/0403-frog-jump) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AdarshSorout/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AdarshSorout/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/AdarshSorout/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/AdarshSorout/Leetcode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/AdarshSorout/Leetcode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/AdarshSorout/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AdarshSorout/Leetcode/tree/master/1086-divisor-game) |
