@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AdarshSorout/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AdarshSorout/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AdarshSorout/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AdarshSorout/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AdarshSorout/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/AdarshSorout/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AdarshSorout/Leetcode/tree/master/0205-isomorphic-strings) |
