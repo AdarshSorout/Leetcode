@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AdarshSorout/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AdarshSorout/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AdarshSorout/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AdarshSorout/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AdarshSorout/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AdarshSorout/Leetcode/tree/master/0072-edit-distance) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AdarshSorout/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/AdarshSorout/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/AdarshSorout/Leetcode/tree/master/0890-lemonade-change) |
