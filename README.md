@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AdarshSorout/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AdarshSorout/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AdarshSorout/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/AdarshSorout/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0975-range-sum-of-bst](https://github.com/AdarshSorout/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdarshSorout/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AdarshSorout/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AdarshSorout/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/AdarshSorout/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/AdarshSorout/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdarshSorout/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/AdarshSorout/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AdarshSorout/Leetcode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/AdarshSorout/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Brainteaser
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AdarshSorout/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AdarshSorout/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/AdarshSorout/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
