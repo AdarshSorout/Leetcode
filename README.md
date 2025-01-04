@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/AdarshSorout/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0975-range-sum-of-bst](https://github.com/AdarshSorout/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdarshSorout/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/AdarshSorout/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/AdarshSorout/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/AdarshSorout/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdarshSorout/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/AdarshSorout/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AdarshSorout/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/AdarshSorout/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AdarshSorout/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/AdarshSorout/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Brainteaser
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AdarshSorout/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AdarshSorout/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AdarshSorout/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/AdarshSorout/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
