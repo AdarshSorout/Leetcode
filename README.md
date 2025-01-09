@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdarshSorout/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdarshSorout/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/AdarshSorout/Leetcode/tree/master/3427-special-array-ii) |
 ## Backtracking
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AdarshSorout/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdarshSorout/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdarshSorout/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/AdarshSorout/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -544,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AdarshSorout/Leetcode/tree/master/0744-network-delay-time) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
