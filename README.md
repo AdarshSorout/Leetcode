@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AdarshSorout/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AdarshSorout/Leetcode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshSorout/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/AdarshSorout/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdarshSorout/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/AdarshSorout/Leetcode/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/AdarshSorout/Leetcode/tree/master/0935-orderly-queue) |
