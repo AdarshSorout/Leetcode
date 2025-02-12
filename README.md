@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AdarshSorout/Leetcode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/AdarshSorout/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0981-delete-columns-to-make-sorted](https://github.com/AdarshSorout/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdarshSorout/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AdarshSorout/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdarshSorout/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/AdarshSorout/Leetcode/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/AdarshSorout/Leetcode/tree/master/0935-orderly-queue) |
+| [0981-delete-columns-to-make-sorted](https://github.com/AdarshSorout/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AdarshSorout/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1078-remove-outermost-parentheses](https://github.com/AdarshSorout/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AdarshSorout/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
