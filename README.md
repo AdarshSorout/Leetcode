@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdarshSorout/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AdarshSorout/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AdarshSorout/Leetcode/tree/master/0050-powx-n) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdarshSorout/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/AdarshSorout/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AdarshSorout/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/AdarshSorout/Leetcode/tree/master/0086-partition-list) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdarshSorout/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/AdarshSorout/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/AdarshSorout/Leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/AdarshSorout/Leetcode/tree/master/1013-fibonacci-number) |
