@@ -1,38 +1,32 @@
-
 class Solution {
 public:
-    int n;
-
-    // Custom hash function for vector<int>
-    struct VectorHash {
-        std::size_t operator()(const std::vector<int>& vec) const {
-            std::size_t hash = 0;
-            for (int num : vec) {
-                hash ^= std::hash<int>()(num) + 0x9e3779b9 + (hash << 6) + (hash >> 2);
-            }
-            return hash;
-        }
-    };
-
-    std::unordered_set<std::vector<int>, VectorHash> result;
-
-    void solve(int idx, std::vector<int>& nums) {
-        if (idx == n) {
-            result.insert(nums); // Add the current permutation to the set
-            return;
-        }
-        for (int i = idx; i < n; i++) {
-            std::swap(nums[i], nums[idx]);
-            solve(idx + 1, nums);
-            std::swap(nums[i], nums[idx]); // Backtrack
-        }
+int n;
+vector<vector<int>>result;
+void solve( vector<int>&temp,unordered_map<int, int>& mp){
+    if(temp.size()==n){
+        result.push_back(temp);
+        return ;
     }
+    for(auto&[key,value]:mp){
+        if(value==0){
+            continue;
+        }
 
-    std::vector<std::vector<int>> permuteUnique(std::vector<int>& nums) {
-        n = nums.size();
-        solve(0, nums);
-
-        // Convert the unordered_set to a vector of vectors
-        return std::vector<std::vector<int>>(result.begin(), result.end());
+        temp.push_back(key);
+        mp[key]--;
+        solve(temp,mp);
+        temp.pop_back();
+        mp[key]++;
+    }
+}
+    vector<vector<int>> permuteUnique(vector<int>& nums) {
+       n=nums.size();
+       unordered_map<int,int>mp;
+       for(int i=0;i<n;i++){
+        mp[nums[i]]++;
+       } 
+       vector<int>temp;
+       solve(temp,mp);
+       return result;
     }
 };
