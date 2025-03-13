@@ -1,12 +1,14 @@
 class Solution {
 public:
 int n;
+
 vector<vector<int>>result;
 unordered_set<int>st;
- void solve(vector<int> & temp,vector<int>& nums){
+void solve(vector<int>&temp,vector<int>&nums){
     if(temp.size()==n){
         result.push_back(temp);
-        return;
+        return ;
+
     }
     for(int i=0;i<n;i++){
         if(st.find(nums[i])==st.end()){
@@ -17,14 +19,11 @@ unordered_set<int>st;
             st.erase(nums[i]);
         }
     }
- }
-
-
+}
     vector<vector<int>> permute(vector<int>& nums) {
- n=nums.size();
- vector<int>temp;
- solve(temp,nums);
- return result;
-
-     }
+         n=nums.size();
+        vector<int>temp;
+        solve (temp,nums);
+        return result;
+    }
 };
