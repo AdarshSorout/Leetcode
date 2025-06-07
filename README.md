@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AdarshSorout/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AdarshSorout/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AdarshSorout/Leetcode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/AdarshSorout/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AdarshSorout/Leetcode/tree/master/0078-subsets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdarshSorout/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AdarshSorout/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AdarshSorout/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AdarshSorout/Leetcode/tree/master/0085-maximal-rectangle) |
