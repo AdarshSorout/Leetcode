@@ -22,37 +22,39 @@ public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
+vector<int>prev(m,0),cur(m,0);
 
-        vector<vector<int>> dp(n, vector<int>(m, 0));
+      
         for (int j = 0; j < m; j++) {
-            dp[0][j] = matrix[0][j];
+            prev[j] = matrix[0][j];
         }
 
         for (int i = 1; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                int up = dp[i - 1][j];
+                int up = prev[j];
                 int ld, rd;
 
                 if (j > 0) {
-                    ld = dp[i - 1][j - 1];
+                    ld = prev[j - 1];
                 } else {
                     ld = INT_MAX;
                 }
 
                 if (j < m - 1) {
-                    rd = dp[i - 1][j + 1];
+                    rd = prev[j + 1];
                 } else {
                     rd = INT_MAX;
                 }
 
-                dp[i][j] = matrix[i][j] + min(min(up, ld), rd);
+                cur[j] = matrix[i][j] + min(min(up, ld), rd);
             }
+            prev=cur;
         }
 
         int ans = INT_MAX;
         for (int j = 0; j < m; j++) {
-            if (dp[n - 1][j] < ans) {
-                ans = dp[n - 1][j];
+            if (prev[j] < ans) {
+                ans = prev[j];
             }
         }
 
