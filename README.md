@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AdarshSorout/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/AdarshSorout/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1073-number-of-enclaves](https://github.com/AdarshSorout/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/AdarshSorout/Leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AdarshSorout/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/AdarshSorout/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdarshSorout/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdarshSorout/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/AdarshSorout/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1129-longest-string-chain](https://github.com/AdarshSorout/Leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AdarshSorout/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/AdarshSorout/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/AdarshSorout/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/AdarshSorout/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AdarshSorout/Leetcode/tree/master/1086-divisor-game) |
+| [1129-longest-string-chain](https://github.com/AdarshSorout/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AdarshSorout/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AdarshSorout/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/AdarshSorout/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AdarshSorout/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1078-remove-outermost-parentheses](https://github.com/AdarshSorout/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/AdarshSorout/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AdarshSorout/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AdarshSorout/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AdarshSorout/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AdarshSorout/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/AdarshSorout/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/AdarshSorout/Leetcode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdarshSorout/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/AdarshSorout/Leetcode/tree/master/0935-orderly-queue) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AdarshSorout/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/AdarshSorout/Leetcode/tree/master/1129-longest-string-chain) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AdarshSorout/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/AdarshSorout/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
