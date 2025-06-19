@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdarshSorout/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/AdarshSorout/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2636-maximum-subsequence-score](https://github.com/AdarshSorout/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdarshSorout/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/AdarshSorout/Leetcode/tree/master/3427-special-array-ii) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AdarshSorout/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/AdarshSorout/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdarshSorout/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2636-maximum-subsequence-score](https://github.com/AdarshSorout/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Trie
 |  |
 | ------- |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdarshSorout/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AdarshSorout/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1962-single-threaded-cpu](https://github.com/AdarshSorout/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2636-maximum-subsequence-score](https://github.com/AdarshSorout/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AdarshSorout/Leetcode/tree/master/1127-last-stone-weight) |
 | [1962-single-threaded-cpu](https://github.com/AdarshSorout/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdarshSorout/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2636-maximum-subsequence-score](https://github.com/AdarshSorout/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Merge Sort
 |  |
 | ------- |
