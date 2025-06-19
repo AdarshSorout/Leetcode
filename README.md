@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdarshSorout/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/AdarshSorout/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AdarshSorout/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AdarshSorout/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdarshSorout/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/AdarshSorout/Leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/AdarshSorout/Leetcode/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AdarshSorout/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdarshSorout/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdarshSorout/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AdarshSorout/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AdarshSorout/Leetcode/tree/master/1127-last-stone-weight) |
 | [1962-single-threaded-cpu](https://github.com/AdarshSorout/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdarshSorout/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AdarshSorout/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AdarshSorout/Leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Merge Sort
 |  |
