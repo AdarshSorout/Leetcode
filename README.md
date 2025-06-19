@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdarshSorout/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AdarshSorout/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdarshSorout/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1962-single-threaded-cpu](https://github.com/AdarshSorout/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/AdarshSorout/Leetcode/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshSorout/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/AdarshSorout/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/AdarshSorout/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdarshSorout/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AdarshSorout/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1962-single-threaded-cpu](https://github.com/AdarshSorout/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Counting
 |  |
 | ------- |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AdarshSorout/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/AdarshSorout/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/AdarshSorout/Leetcode/tree/master/0744-network-delay-time) |
+| [1962-single-threaded-cpu](https://github.com/AdarshSorout/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdarshSorout/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Merge Sort
 |  |
