@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshSorout/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/AdarshSorout/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdarshSorout/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AdarshSorout/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/AdarshSorout/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AdarshSorout/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdarshSorout/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AdarshSorout/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3427-special-array-ii](https://github.com/AdarshSorout/Leetcode/tree/master/3427-special-array-ii) |
 ## Binary Search Tree
 |  |
