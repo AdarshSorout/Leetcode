@@ -31,8 +31,6 @@ public:
     }
 
     long long kthSmallestProduct(vector<int>& nums1, vector<int>& nums2, long long k) {
-        sort(nums1.begin(), nums1.end());
-        sort(nums2.begin(), nums2.end());
 
         long long low = -1e10, high = 1e10;
 
