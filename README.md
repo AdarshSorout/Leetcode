@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AdarshSorout/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AdarshSorout/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdarshSorout/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AdarshSorout/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AdarshSorout/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AdarshSorout/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AdarshSorout/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2465-shifting-letters-ii](https://github.com/AdarshSorout/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdarshSorout/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdarshSorout/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AdarshSorout/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/AdarshSorout/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdarshSorout/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AdarshSorout/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2636-maximum-subsequence-score](https://github.com/AdarshSorout/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AdarshSorout/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Trie
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdarshSorout/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AdarshSorout/Leetcode/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AdarshSorout/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Design
 |  |
 | ------- |
