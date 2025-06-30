@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AdarshSorout/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/AdarshSorout/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1603-running-sum-of-1d-array](https://github.com/AdarshSorout/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AdarshSorout/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdarshSorout/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AdarshSorout/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdarshSorout/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/AdarshSorout/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AdarshSorout/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1972-rotating-the-box](https://github.com/AdarshSorout/Leetcode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdarshSorout/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AdarshSorout/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/AdarshSorout/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AdarshSorout/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AdarshSorout/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AdarshSorout/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1962-single-threaded-cpu](https://github.com/AdarshSorout/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AdarshSorout/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdarshSorout/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdarshSorout/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AdarshSorout/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AdarshSorout/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3427-special-array-ii](https://github.com/AdarshSorout/Leetcode/tree/master/3427-special-array-ii) |
 ## Binary Search Tree
