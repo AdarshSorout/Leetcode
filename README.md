@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AdarshSorout/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AdarshSorout/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AdarshSorout/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdarshSorout/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0039-combination-sum) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdarshSorout/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdarshSorout/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
