@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AdarshSorout/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AdarshSorout/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AdarshSorout/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AdarshSorout/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AdarshSorout/Leetcode/tree/master/0056-merge-intervals) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AdarshSorout/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdarshSorout/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/AdarshSorout/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/AdarshSorout/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshSorout/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AdarshSorout/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdarshSorout/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AdarshSorout/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/AdarshSorout/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/AdarshSorout/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AdarshSorout/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AdarshSorout/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AdarshSorout/Leetcode/tree/master/0079-word-search) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AdarshSorout/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AdarshSorout/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/AdarshSorout/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AdarshSorout/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AdarshSorout/Leetcode/tree/master/0148-sort-list) |
