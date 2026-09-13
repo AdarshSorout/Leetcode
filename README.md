@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AdarshSorout/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/AdarshSorout/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/AdarshSorout/Leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSorout/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdarshSorout/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/AdarshSorout/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdarshSorout/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdarshSorout/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AdarshSorout/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AdarshSorout/Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdarshSorout/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/AdarshSorout/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/AdarshSorout/Leetcode/tree/master/0645-set-mismatch) |
 | [0935-orderly-queue](https://github.com/AdarshSorout/Leetcode/tree/master/0935-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/AdarshSorout/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AdarshSorout/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AdarshSorout/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/AdarshSorout/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0645-set-mismatch](https://github.com/AdarshSorout/Leetcode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdarshSorout/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AdarshSorout/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String Matching
