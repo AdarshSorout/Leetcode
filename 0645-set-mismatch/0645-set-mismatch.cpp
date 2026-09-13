@@ -16,7 +16,7 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i]>0){
                 missing=i+1;
-                
+                break;
             }
         }
         return {dup,missing};
