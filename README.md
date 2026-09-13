@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AdarshSorout/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/AdarshSorout/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/AdarshSorout/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdarshSorout/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdarshSorout/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AdarshSorout/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AdarshSorout/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/AdarshSorout/Leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/AdarshSorout/Leetcode/tree/master/0735-asteroid-collision) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/AdarshSorout/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2232-adding-spaces-to-a-string](https://github.com/AdarshSorout/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AdarshSorout/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AdarshSorout/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
